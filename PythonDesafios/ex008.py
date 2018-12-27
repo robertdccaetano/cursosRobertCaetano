@@ -1,5 +1,5 @@
 m = float(input("Digite o valor em metros: "))
-#cm = m/0.010000
-cm = m*100
-mm = cm*10
-print("{:.0f} Metro(s) convertido em Centímetros é {:.0f}cm e para Milímetros é {:.0f}mm ".format(m, cm, mm))
+# cm = m/0.010000
+
+print("{} Metro(s) corresponde a {}Km a {}Hm a {:.1f}Dam a {:.0f}dm a {:.0f}cm a {:.0f}mm !"
+      .format(m, m * 0.001, m * 0.01, m * 0.1, m * 10, m * 100, m * 1000))
