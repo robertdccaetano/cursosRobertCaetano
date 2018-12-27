@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f850021-8690-40e1-9d19-acfa421c4827" name="Default Changelist" comment="Subindo Desafio #007 [26/12/2018]">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PythonDesafios/ex014.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonDesafios/ex014.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PythonDesafios/ex014.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" selection-start-column="15" selection-end-column="15" />
+            <state relative-caret-position="20">
+              <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -68,23 +67,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cursopython" type="462c0819:PsiDirectoryNode" />
+              <item name="CursoemVideo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cursopython" type="462c0819:PsiDirectoryNode" />
+              <item name="CursoemVideo" type="462c0819:PsiDirectoryNode" />
               <item name="PythonDesafios" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -103,28 +102,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex013">
-    <configuration name="ex008" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonDesafios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonDesafios/ex008.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ex014">
     <configuration name="ex009" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,13 +187,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex014" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonDesafios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonDesafios/ex014.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex014" />
         <item itemvalue="Python.ex013" />
         <item itemvalue="Python.ex011" />
         <item itemvalue="Python.ex010" />
         <item itemvalue="Python.ex009" />
-        <item itemvalue="Python.ex008" />
       </list>
     </recent_temporary>
   </component>
@@ -264,15 +263,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1634981" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16369048" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" visible="true" weight="0.24916388" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49925596" visible="true" weight="0.24916388" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -370,8 +368,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonDesafios/ex014.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        <state relative-caret-position="20">
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
         </state>
       </provider>
     </entry>
