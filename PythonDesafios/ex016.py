@@ -1,5 +1,4 @@
-from os import truncate
+from math import trunc
 
-import math
 num = float(input('Digite um valor: '))
-print('Sua porção inteira é {}'.format(math.trunc(num)))
+print('Sua porção inteira é {}'.format(trunc(num)))
