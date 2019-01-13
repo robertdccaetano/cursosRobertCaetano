@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f850021-8690-40e1-9d19-acfa421c4827" name="Default Changelist" comment="Subindo Desafio #007 [26/12/2018]">
+<<<<<<< HEAD:.idea/workspace.xml
       <change afterPath="$PROJECT_DIR$/Python/PythonDesafios/ex019.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python/PythonDesafios/ex020.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python/PythonDesafios/ex021.py" afterDir="false" />
@@ -393,6 +394,12 @@
       <change beforePath="$PROJECT_DIR$/venv/Scripts/vcruntime140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Python/venv/Scripts/vcruntime140.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/Scripts/winsound.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/Python/venv/Scripts/winsound.pyd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/Python/venv/pyvenv.cfg" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonDesafios/ex019.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonDesafios/ex019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonDesafios/ex020.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonDesafios/ex020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonDesafios/ex021.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonDesafios/ex021.py" afterDir="false" />
+>>>>>>> 789358b1e841d9e294494113ac7f81eeb1c0e776:Python/.idea/workspace.xml
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -401,6 +408,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD:.idea/workspace.xml
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python/PythonDesafios/ex019.py">
@@ -412,6 +420,14 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
+=======
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PythonDesafios/ex021.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+>>>>>>> 789358b1e841d9e294494113ac7f81eeb1c0e776:Python/.idea/workspace.xml
             </state>
           </provider>
         </entry>
@@ -450,12 +466,20 @@
         <option value="$PROJECT_DIR$/PythonAulas/aula08.py" />
         <option value="$PROJECT_DIR$/PythonAulas/aula08a.py" />
         <option value="$PROJECT_DIR$/PythonAulas/aula08b.py" />
+<<<<<<< HEAD:.idea/workspace.xml
         <option value="$PROJECT_DIR$/PythonDesafios/ex020.py" />
         <option value="$PROJECT_DIR$/PythonDesafios/ex021.py" />
+=======
+>>>>>>> 789358b1e841d9e294494113ac7f81eeb1c0e776:Python/.idea/workspace.xml
         <option value="$PROJECT_DIR$/PythonDesafios/ex016.py" />
         <option value="$PROJECT_DIR$/PythonDesafios/ex017.py" />
         <option value="$PROJECT_DIR$/PythonDesafios/ex018.py" />
         <option value="$PROJECT_DIR$/PythonDesafios/ex019.py" />
+<<<<<<< HEAD:.idea/workspace.xml
+=======
+        <option value="$PROJECT_DIR$/PythonDesafios/ex020.py" />
+        <option value="$PROJECT_DIR$/PythonDesafios/ex021.py" />
+>>>>>>> 789358b1e841d9e294494113ac7f81eeb1c0e776:Python/.idea/workspace.xml
       </list>
     </option>
   </component>
@@ -472,16 +496,16 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CursoemVideo" type="462c0819:PsiDirectoryNode" />
+              <item name="cursopython" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< HEAD:.idea/workspace.xml
               <item name="CursoemVideo" type="462c0819:PsiDirectoryNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -489,12 +513,16 @@
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="CursoemVideo" type="462c0819:PsiDirectoryNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="cursopython" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 789358b1e841d9e294494113ac7f81eeb1c0e776:Python/.idea/workspace.xml
               <item name="PythonDesafios" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -518,29 +546,13 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD:.idea/workspace.xml
   <component name="RunManager" selected="Python.ex021 (1)">
     <configuration name="ex016" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonDesafios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonDesafios/ex016.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+=======
+  <component name="RunManager" selected="Python.ex021">
     <configuration name="ex017" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 789358b1e841d9e294494113ac7f81eeb1c0e776:Python/.idea/workspace.xml
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -603,6 +615,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex019" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonDesafios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonDesafios/ex019.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ex021 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -626,11 +659,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD:.idea/workspace.xml
         <item itemvalue="Python.ex021 (1)" />
         <item itemvalue="Python.ex019" />
         <item itemvalue="Python.ex018" />
         <item itemvalue="Python.ex017" />
         <item itemvalue="Python.ex016" />
+=======
+        <item itemvalue="Python.ex021" />
+        <item itemvalue="Python.ex020" />
+        <item itemvalue="Python.ex019" />
+        <item itemvalue="Python.ex018" />
+        <item itemvalue="Python.ex017" />
+>>>>>>> 789358b1e841d9e294494113ac7f81eeb1c0e776:Python/.idea/workspace.xml
       </list>
     </recent_temporary>
   </component>
@@ -679,9 +720,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD:.idea/workspace.xml
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16517857" />
+=======
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16539924" />
+>>>>>>> 789358b1e841d9e294494113ac7f81eeb1c0e776:Python/.idea/workspace.xml
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -689,7 +736,11 @@
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+<<<<<<< HEAD:.idea/workspace.xml
       <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49925596" visible="true" weight="0.26190478" />
+=======
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49925596" weight="0.2611111" />
+>>>>>>> 789358b1e841d9e294494113ac7f81eeb1c0e776:Python/.idea/workspace.xml
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32943144" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32903227" />
@@ -837,20 +888,9 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD:.idea/workspace.xml
     <entry file="file://$PROJECT_DIR$/PythonDesafios/ex020.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonDesafios/ex021.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
+=======
     <entry file="file://$PROJECT_DIR$/PythonDesafios/ex016.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -859,6 +899,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonDesafios/ex017.py">
+>>>>>>> 789358b1e841d9e294494113ac7f81eeb1c0e776:Python/.idea/workspace.xml
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
@@ -867,8 +908,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonDesafios/ex018.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="120">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonDesafios/ex019.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonDesafios/ex020.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonDesafios/ex021.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
