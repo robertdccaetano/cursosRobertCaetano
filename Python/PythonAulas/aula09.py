@@ -1,7 +1,7 @@
 frase = 'Curso em Vídeo Python'
 # Aqui da erro pois string é imutável só e possível 'mutar' com replace -> frase[0] = 'J'
 #print(frase.upper().count('O'))
-#print(len(frase.strip()))
+print(len(frase.strip()))
 #print(frase.replace('Python', 'Android'))
 #frase = frase.replace('Python', 'Android')
 #print(frase)
@@ -9,7 +9,7 @@ frase = 'Curso em Vídeo Python'
 #print(frase.lower().find('vídeo'))
 
 dividido = frase.split()
-print(dividido[2] [3])
+print(dividido[0])
 
 #print('''O amor é paciente, o amor é bondoso.
 #Não inveja, não se vangloria, não se orgulha.
