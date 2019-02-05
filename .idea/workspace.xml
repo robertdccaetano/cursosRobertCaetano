@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f850021-8690-40e1-9d19-acfa421c4827" name="Default Changelist" comment="Subindo Desafio #007 [26/12/2018]">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/Python/PythonDesafios/ex027.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+>>>>>>> 0ded9e1565b2ff4ab46c70a6d17e21f5a8a060fc
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +105,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -112,10 +116,22 @@
               <item name="CursoemVideo" type="b2602c69:ProjectViewProjectNode" />
               <item name="CursoemVideo" type="462c0819:PsiDirectoryNode" />
             </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
             <path>
+<<<<<<< HEAD
               <item name="CursoemVideo" type="b2602c69:ProjectViewProjectNode" />
               <item name="CursoemVideo" type="462c0819:PsiDirectoryNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="developercourses" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+>>>>>>> 0ded9e1565b2ff4ab46c70a6d17e21f5a8a060fc
             </path>
             <path>
               <item name="CursoemVideo" type="b2602c69:ProjectViewProjectNode" />
@@ -137,7 +153,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -332,7 +347,11 @@
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49925596" weight="0.26020408" />
+=======
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49925596" weight="0.2611111" />
+>>>>>>> 0ded9e1565b2ff4ab46c70a6d17e21f5a8a060fc
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32943144" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3282313" />
