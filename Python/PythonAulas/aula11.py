@@ -7,6 +7,11 @@ nome = 'Robert'
 cores = {'limpa': '\033[m',
          'azul': '\033[34m',
          'amarelo': '\033[1;33m',
-         'pretoebranco': '\033[7;30m'}
+         'pretoebranco': '\033[7;30m',
+         'vermelho': '\033[31m'}
 print('Olá! Você vai conseguir ser o melhor programador {}{}{} !'.format(cores['amarelo'], nome, cores['limpa']))
 print('Olá! Muito prazer em te conhecer, {}{}{}!!!'.format('\033[4;34m', nome, '\033[m'))
+print('{}Eu AMO VOCÊ, Franciele <3{} !!!{}'.format(cores['vermelho'], cores['amarelo'], cores['limpa']))
+
+
+
