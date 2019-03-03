@@ -1,17 +1,20 @@
 from math import fabs
 from time import sleep
-r1 = float(input('Entre com o valor da 1 reta: '))
-r2 = float(input('Entre com o valor da 2 reta: '))
-r3 = float(input('Entre com o valor da 3 reta: '))
+print('-=-' * 10)
+print('Analisador de Triângulos')
+print('-=-' * 10)
+r1 = float(input('Primeiro segmento: '))
+r2 = float(input('Segundo segmento: '))
+r3 = float(input('Terceiro segmento: '))
 
 if fabs(r2 - r3) < r1 < r2 + r3:
     if fabs(r1 - r3) < r2 < r1 + r3:
         if fabs(r1 - r2) < r3 < r1 + r2:
             print('Processando possibilidade...')
             sleep(3)
-            print('É possível formar um triângulo através desses valores!')
+            print('É POSSÍVEL formar um triângulo através desses valores!')
 else:
-    print('Não é possível formar um triângulo!')
+    print('NÃO É POSSÍVEL formar um triângulo!')
 
-'''result = 8 - 10
-print('Resultado é {:.0f}'.format(fabs(result)))'''
+#Solução do vídeo de correção do curso em vídeo
+#if r1 < r2 + r3 and r2 < r1 + r3 and r3 < r1 + r2
