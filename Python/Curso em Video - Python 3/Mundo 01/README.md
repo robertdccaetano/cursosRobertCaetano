@@ -1,4 +1,4 @@
-# Curso em Vídeo - Python 3 - Mundo01
+# Curso em Vídeo - Python 3 - Mundo 01
 ### Anotações das aulas, desafios resolvidos e com correções próprias.
 Mundo 01 - Fundamentos: http://www.cursoemvideo.com/course/curso-python-3/
 
