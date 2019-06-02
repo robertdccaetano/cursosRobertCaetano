@@ -1,0 +1,25 @@
+46 - Faca uma program com contagem regressiva para estouro de fogos de artificio de 10 até 0, com espera de 1 sec entre eles.
+
+47 - Crie um program que mostre na tela todos os numeros pares entre 1 e 50:
+
+48 - Programa que calcule a soma de todos os ímpares multiplos de 3 entre 1 e 500.
+
+49 - Refaça o exercício 9, mostrando a tabuada de um numero que o usuario escolher usando o FOR.
+
+10 - Desenvolva programa que leia sesi numeros inteiro e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar desconsidere-o.
+
+51 - Leia o primeiro termo e a razão de uma PA. No final mostre os 10 primeiros termos dessa progressão.
+
+52 -Faça um programq que leia um inteiro e diga se é ou não um numero primo.
+
+53 - Crie um programa que leia qualquer frase e diga se é um palindromo. Desconsiderando os espaços. ex: apos a sopa / a sacada da casa
+a torre da derrota 
+o lobo ama o bolo
+anotaram a data da maratona
+
+54 - Leia ano de nascimento de 7 pessoas, mostre quantos nao atingiram a maioridade e quantos já são maiores.
+
+55 - Faça um programa que leia o peso de cinco pessoas. No fim mostra qual foi o meaior e o menor peso lidos.
+
+56 - Leia nome idade e sexo de 4 pessoas, no final mostre a media de idade od grupo qual o nome do homem mais velho e quantas menores tem menos de 21 anos.
+
