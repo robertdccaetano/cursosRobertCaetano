@@ -1,0 +1,22 @@
+/*Reset.css*/
+*{
+	box-sizing: border-box;
+	font: inherit;
+	margin: 0;
+	padding: 0;
+}
+
+* a, * a:hover{
+	text-decoration: none;
+}
+
+* li{
+	list-style-type: none;
+}
+
+audio, img, iframe, video{
+	display: inline-block;
+	width: 100%;
+}
+
+/*Header*/
