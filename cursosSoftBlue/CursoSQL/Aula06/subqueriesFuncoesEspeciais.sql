@@ -35,5 +35,6 @@ SELECT * FROM tb_funcionarios LIMIT 2;
 SELECT * FROM tb_funcionarios LIMIT 2 OFFSET 1;
 SELECT * FROM tb_funcionarios LIMIT 1, 2;
 
+/* Parei 12:31 da aula */
 
 
