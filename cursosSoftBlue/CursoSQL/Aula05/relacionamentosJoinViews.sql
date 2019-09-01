@@ -45,11 +45,6 @@ SELECT a.nome AS CLIENTE, b.nome AS "QUEM_INDICOU"
  UPDATE tb_funcionarios SET salario = 1500 WHERE id = 3;
  
  
-
-
-
-
-
 CREATE TABLE tb_clientes (
 	id int unsigned not null auto_increment,
     nome varchar(45)  not null,
