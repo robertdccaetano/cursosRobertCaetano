@@ -7,10 +7,16 @@
     <title>Document</title>
 </head>
 <body>
+    <pre>
     <?php
-        //A função chr exibi a letra do código especificado
-        $letra = chr(67);
-        echo "A letra de código 67 é $letra";
+        $v = array("nome" => "ana", "idade" => 23, "peso" => 65.6 );
+        $v["fuma"] = true;
+        // print_r($v);]
+        foreach($v as $k => $c) {
+            echo "O campo $k possui o conteúdo $c <br/>";
+        }
+
     ?>
+    </pre>
 </body>
 </html>

@@ -7,16 +7,14 @@
     <title>Document</title>
 </head>
 <body>
-    <?php 
-        $n = isset($_GET["num"]) ? $_GET["num"]: 1;
-    
-        for ($c = 1; $c <= 10; $c++) {
-            $r = $n * $c;
-            echo"$n x $c = $r <br/>";
-        }
-    ?>
-
-    <a href="javascript:history.go(-1)">Voltar</a>
-
+    <pre>
+    <?php
+        $v = array("a", "j", "m", "x", "k");
+        print_r($v);
+        var_dump($v);
+        $tot = count($v);
+        echo "O vetor tem $tot elementos";
+?>
+    </pre>
 </body>
 </html>
