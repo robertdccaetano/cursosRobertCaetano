@@ -1,0 +1,43 @@
+body, h1, section, div {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: monospace;
+    
+}
+
+h1 {
+    font-size: 1.25em;
+    font-weight: normal;
+    text-align: center;
+    margin: 20px 0 0 0;
+}
+
+.container {
+    max-width: 360px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    display: flex;
+}
+
+.item {
+    background-color: tomato;
+    margin: 5px;
+    font-size: 1.5em;
+    text-align: center;
+    flex: 1;
+}
+
+/*flex-wrap --> display:flex;*/
+
+.wrap {
+    flex-wrap: wrap;   
+}
+
+.wrap-reverse {
+    flex-wrap: wrap-reverse;
+}
