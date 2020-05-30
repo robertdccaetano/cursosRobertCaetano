@@ -1,0 +1,24 @@
+{
+    "name": "robertdccaetano/php-tips-regra-de-negocio",
+    "description": "Modelo, regra de negócio e validação de dados",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Robert Caetano",
+            "email": "robert@meuamigojesus.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Source\\": "source/"
+        },
+        "files": [
+            "source/Config.php",
+            "source/Helpers.php"
+        ]
+    },
+    "require": {
+        "coffeecode/datalayer": "^1.0"
+    }
+}
