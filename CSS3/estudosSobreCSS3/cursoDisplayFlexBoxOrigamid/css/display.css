@@ -1,0 +1,47 @@
+/*Configurações Padrão*/
+body, h1, section, div {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: monospace, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0 0 0;
+    font-size: 1.25em;
+    
+}
+
+section {
+    width: 400px;
+    border: 1px solid #b6b6b6;
+    margin: 0 auto;
+}
+
+.item {
+    background-color: tomato;
+    margin: 5px;
+    text-align: center;
+    font-size: 1.25em;
+}
+
+
+/*Flex Box*/
+
+.flex {
+    display: flex;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.flex-item-1 {
+    flex: 1;
+}
+
