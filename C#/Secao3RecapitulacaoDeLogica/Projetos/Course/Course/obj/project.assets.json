@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\metalsystem\\.nuget\\packages\\": {},
+    "C:\\Users\\Robert Caetano\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Documentos\\Robert\\C#\\Secao3RecapitulacaoDeLogica\\Projetos\\Course\\Course\\Course.csproj",
+      "projectUniqueName": "E:\\Disco local Notebook\\Documentos\\Git\\Cursos\\C#\\Secao3RecapitulacaoDeLogica\\Projetos\\Course\\Course\\Course.csproj",
       "projectName": "Course",
-      "projectPath": "C:\\Documentos\\Robert\\C#\\Secao3RecapitulacaoDeLogica\\Projetos\\Course\\Course\\Course.csproj",
-      "packagesPath": "C:\\Users\\metalsystem\\.nuget\\packages\\",
-      "outputPath": "C:\\Documentos\\Robert\\C#\\Secao3RecapitulacaoDeLogica\\Projetos\\Course\\Course\\obj\\",
+      "projectPath": "E:\\Disco local Notebook\\Documentos\\Git\\Cursos\\C#\\Secao3RecapitulacaoDeLogica\\Projetos\\Course\\Course\\Course.csproj",
+      "packagesPath": "C:\\Users\\Robert Caetano\\.nuget\\packages\\",
+      "outputPath": "E:\\Disco local Notebook\\Documentos\\Git\\Cursos\\C#\\Secao3RecapitulacaoDeLogica\\Projetos\\Course\\Course\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\metalsystem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Robert Caetano\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
