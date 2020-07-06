@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Documentos\\Robert\\C#\\Secao3RecapitulacaoDeLogica\\Projetos\\Course\\Course\\Course.csproj",
-      "projectName": "Course",
-      "projectPath": "C:\\Documentos\\Robert\\C#\\Secao3RecapitulacaoDeLogica\\Projetos\\Course\\Course\\Course.csproj",
+      "projectUniqueName": "C:\\Documentos\\Robert\\C#\\Secao3RecapitulacaoDeLogica\\Projetos\\Course2\\Course2.csproj",
+      "projectName": "Course2",
+      "projectPath": "C:\\Documentos\\Robert\\C#\\Secao3RecapitulacaoDeLogica\\Projetos\\Course2\\Course2.csproj",
       "packagesPath": "C:\\Users\\metalsystem\\.nuget\\packages\\",
-      "outputPath": "C:\\Documentos\\Robert\\C#\\Secao3RecapitulacaoDeLogica\\Projetos\\Course\\Course\\obj\\",
+      "outputPath": "C:\\Documentos\\Robert\\C#\\Secao3RecapitulacaoDeLogica\\Projetos\\Course2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
