@@ -1,0 +1,10 @@
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\SaidaDeDados\bin\Debug\netcoreapp2.1\SaidaDeDados.deps.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\SaidaDeDados\bin\Debug\netcoreapp2.1\SaidaDeDados.runtimeconfig.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\SaidaDeDados\bin\Debug\netcoreapp2.1\SaidaDeDados.runtimeconfig.dev.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\SaidaDeDados\bin\Debug\netcoreapp2.1\SaidaDeDados.dll
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\SaidaDeDados\bin\Debug\netcoreapp2.1\SaidaDeDados.pdb
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\SaidaDeDados\obj\Debug\netcoreapp2.1\SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\SaidaDeDados\obj\Debug\netcoreapp2.1\SaidaDeDados.AssemblyInfoInputs.cache
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\SaidaDeDados\obj\Debug\netcoreapp2.1\SaidaDeDados.AssemblyInfo.cs
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\SaidaDeDados\obj\Debug\netcoreapp2.1\SaidaDeDados.dll
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\SaidaDeDados\obj\Debug\netcoreapp2.1\SaidaDeDados.pdb

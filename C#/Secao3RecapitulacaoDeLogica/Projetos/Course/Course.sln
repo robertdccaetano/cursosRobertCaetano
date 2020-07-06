@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1169
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course", "Course\Course.csproj", "{9A5839AE-E781-4D72-A9CE-5E7E04017126}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course", "Course\Course.csproj", "{9A5839AE-E781-4D72-A9CE-5E7E04017126}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course2", "..\Course2\Course2.csproj", "{2CED46A4-0FE6-49F1-AF12-4974510BFD0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course2", "..\Course2\Course2.csproj", "{2CED46A4-0FE6-49F1-AF12-4974510BFD0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaidaDeDados", "SaidaDeDados\SaidaDeDados.csproj", "{125D9B14-7C13-433B-84BB-4E7A293A20BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2CED46A4-0FE6-49F1-AF12-4974510BFD0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CED46A4-0FE6-49F1-AF12-4974510BFD0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CED46A4-0FE6-49F1-AF12-4974510BFD0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{125D9B14-7C13-433B-84BB-4E7A293A20BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{125D9B14-7C13-433B-84BB-4E7A293A20BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{125D9B14-7C13-433B-84BB-4E7A293A20BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{125D9B14-7C13-433B-84BB-4E7A293A20BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
