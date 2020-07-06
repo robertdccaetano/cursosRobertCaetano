@@ -3,7 +3,7 @@ using System.Globalization;
 
 namespace ExercSaidaDeDados
 {
-    class Program
+    class ExercSaidaDeDados
     {
         static void Main(string[] args)
         {
@@ -31,9 +31,5 @@ namespace ExercSaidaDeDados
 
             Console.WriteLine("Separador decimal invariant culture: " + medida.ToString("F3", CultureInfo.InvariantCulture) + "\n");
 
-
-
-
         }
     }
-}
