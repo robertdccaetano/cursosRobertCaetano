@@ -1,0 +1,11 @@
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\OperadoresAtribuicao\bin\Debug\netcoreapp2.1\OperadoresAtribuicao.deps.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\OperadoresAtribuicao\bin\Debug\netcoreapp2.1\OperadoresAtribuicao.runtimeconfig.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\OperadoresAtribuicao\bin\Debug\netcoreapp2.1\OperadoresAtribuicao.runtimeconfig.dev.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\OperadoresAtribuicao\bin\Debug\netcoreapp2.1\OperadoresAtribuicao.dll
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\OperadoresAtribuicao\bin\Debug\netcoreapp2.1\OperadoresAtribuicao.pdb
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\OperadoresAtribuicao\obj\Debug\netcoreapp2.1\OperadoresAtribuicao.csprojAssemblyReference.cache
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\OperadoresAtribuicao\obj\Debug\netcoreapp2.1\OperadoresAtribuicao.csproj.CoreCompileInputs.cache
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\OperadoresAtribuicao\obj\Debug\netcoreapp2.1\OperadoresAtribuicao.AssemblyInfoInputs.cache
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\OperadoresAtribuicao\obj\Debug\netcoreapp2.1\OperadoresAtribuicao.AssemblyInfo.cs
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\OperadoresAtribuicao\obj\Debug\netcoreapp2.1\OperadoresAtribuicao.dll
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\OperadoresAtribuicao\obj\Debug\netcoreapp2.1\OperadoresAtribuicao.pdb

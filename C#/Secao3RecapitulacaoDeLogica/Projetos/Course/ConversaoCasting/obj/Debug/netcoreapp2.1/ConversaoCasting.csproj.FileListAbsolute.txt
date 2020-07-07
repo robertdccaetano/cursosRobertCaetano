@@ -1,0 +1,11 @@
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\ConversaoCasting\bin\Debug\netcoreapp2.1\ConversaoCasting.deps.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\ConversaoCasting\bin\Debug\netcoreapp2.1\ConversaoCasting.runtimeconfig.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\ConversaoCasting\bin\Debug\netcoreapp2.1\ConversaoCasting.runtimeconfig.dev.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\ConversaoCasting\bin\Debug\netcoreapp2.1\ConversaoCasting.dll
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\ConversaoCasting\bin\Debug\netcoreapp2.1\ConversaoCasting.pdb
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\ConversaoCasting\obj\Debug\netcoreapp2.1\ConversaoCasting.csproj.CoreCompileInputs.cache
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\ConversaoCasting\obj\Debug\netcoreapp2.1\ConversaoCasting.AssemblyInfoInputs.cache
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\ConversaoCasting\obj\Debug\netcoreapp2.1\ConversaoCasting.AssemblyInfo.cs
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\ConversaoCasting\obj\Debug\netcoreapp2.1\ConversaoCasting.dll
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\ConversaoCasting\obj\Debug\netcoreapp2.1\ConversaoCasting.pdb
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\ConversaoCasting\obj\Debug\netcoreapp2.1\ConversaoCasting.csprojAssemblyReference.cache

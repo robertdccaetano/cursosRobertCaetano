@@ -1,0 +1,11 @@
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\OperadoresAritmeticos\bin\Debug\netcoreapp2.1\OperadoresAritmeticos.deps.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\OperadoresAritmeticos\bin\Debug\netcoreapp2.1\OperadoresAritmeticos.runtimeconfig.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\OperadoresAritmeticos\bin\Debug\netcoreapp2.1\OperadoresAritmeticos.runtimeconfig.dev.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\OperadoresAritmeticos\bin\Debug\netcoreapp2.1\OperadoresAritmeticos.dll
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\OperadoresAritmeticos\bin\Debug\netcoreapp2.1\OperadoresAritmeticos.pdb
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\OperadoresAritmeticos\obj\Debug\netcoreapp2.1\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\OperadoresAritmeticos\obj\Debug\netcoreapp2.1\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\OperadoresAritmeticos\obj\Debug\netcoreapp2.1\OperadoresAritmeticos.AssemblyInfo.cs
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\OperadoresAritmeticos\obj\Debug\netcoreapp2.1\OperadoresAritmeticos.dll
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\OperadoresAritmeticos\obj\Debug\netcoreapp2.1\OperadoresAritmeticos.pdb
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\OperadoresAritmeticos\obj\Debug\netcoreapp2.1\OperadoresAritmeticos.csprojAssemblyReference.cache
