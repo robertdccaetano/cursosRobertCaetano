@@ -1,0 +1,11 @@
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EntradaDadosPT2\bin\Debug\netcoreapp2.1\EntradaDadosPT2.deps.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EntradaDadosPT2\bin\Debug\netcoreapp2.1\EntradaDadosPT2.runtimeconfig.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EntradaDadosPT2\bin\Debug\netcoreapp2.1\EntradaDadosPT2.runtimeconfig.dev.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EntradaDadosPT2\bin\Debug\netcoreapp2.1\EntradaDadosPT2.dll
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EntradaDadosPT2\bin\Debug\netcoreapp2.1\EntradaDadosPT2.pdb
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EntradaDadosPT2\obj\Debug\netcoreapp2.1\EntradaDadosPT2.csproj.CoreCompileInputs.cache
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EntradaDadosPT2\obj\Debug\netcoreapp2.1\EntradaDadosPT2.AssemblyInfoInputs.cache
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EntradaDadosPT2\obj\Debug\netcoreapp2.1\EntradaDadosPT2.AssemblyInfo.cs
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EntradaDadosPT2\obj\Debug\netcoreapp2.1\EntradaDadosPT2.dll
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EntradaDadosPT2\obj\Debug\netcoreapp2.1\EntradaDadosPT2.pdb
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EntradaDadosPT2\obj\Debug\netcoreapp2.1\EntradaDadosPT2.csprojAssemblyReference.cache

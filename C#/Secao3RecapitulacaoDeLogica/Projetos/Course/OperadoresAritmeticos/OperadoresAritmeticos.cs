@@ -21,7 +21,8 @@ namespace OperadoresAritmeticos
             //Delta com funcao Math.Pow
             double delta2 = Math.Pow(b, 2.0) - 4.0 * a * c;
             //Math.Sqrt funcao raiz quadrada
-            double x1 = -b + ( Math.Sqrt(delta2) ) / ( 2 * a );
+            double x1 = ( -b +  Math.Sqrt(delta2) ) / ( 2 * a );
+            double x2 = ( -b -  Math.Sqrt(delta2) ) / ( 2 * a );
 
 
             Console.WriteLine(n1);
@@ -33,6 +34,7 @@ namespace OperadoresAritmeticos
             Console.WriteLine("===============\n" );
             Console.WriteLine(delta2);
             Console.WriteLine(x1);
+            Console.WriteLine(x2);
 
         }
     }
