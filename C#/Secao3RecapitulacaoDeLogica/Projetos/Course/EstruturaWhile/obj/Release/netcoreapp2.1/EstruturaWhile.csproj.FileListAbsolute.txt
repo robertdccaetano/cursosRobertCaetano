@@ -1,0 +1,11 @@
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EstruturaWhile\obj\Release\netcoreapp2.1\EstruturaWhile.csprojAssemblyReference.cache
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EstruturaWhile\obj\Release\netcoreapp2.1\EstruturaWhile.csproj.CoreCompileInputs.cache
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EstruturaWhile\obj\Release\netcoreapp2.1\EstruturaWhile.AssemblyInfoInputs.cache
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EstruturaWhile\obj\Release\netcoreapp2.1\EstruturaWhile.AssemblyInfo.cs
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EstruturaWhile\bin\Release\netcoreapp2.1\EstruturaWhile.deps.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EstruturaWhile\bin\Release\netcoreapp2.1\EstruturaWhile.runtimeconfig.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EstruturaWhile\bin\Release\netcoreapp2.1\EstruturaWhile.runtimeconfig.dev.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EstruturaWhile\bin\Release\netcoreapp2.1\EstruturaWhile.dll
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EstruturaWhile\bin\Release\netcoreapp2.1\EstruturaWhile.pdb
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EstruturaWhile\obj\Release\netcoreapp2.1\EstruturaWhile.dll
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EstruturaWhile\obj\Release\netcoreapp2.1\EstruturaWhile.pdb

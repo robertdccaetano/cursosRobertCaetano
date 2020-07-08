@@ -1,0 +1,10 @@
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\ExercEntradaDadosPT2\bin\Debug\netcoreapp2.1\ExercEntradaDadosPT2.deps.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\ExercEntradaDadosPT2\bin\Debug\netcoreapp2.1\ExercEntradaDadosPT2.runtimeconfig.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\ExercEntradaDadosPT2\bin\Debug\netcoreapp2.1\ExercEntradaDadosPT2.runtimeconfig.dev.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\ExercEntradaDadosPT2\bin\Debug\netcoreapp2.1\ExercEntradaDadosPT2.dll
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\ExercEntradaDadosPT2\bin\Debug\netcoreapp2.1\ExercEntradaDadosPT2.pdb
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\ExercEntradaDadosPT2\obj\Debug\netcoreapp2.1\ExercEntradaDadosPT2.csproj.CoreCompileInputs.cache
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\ExercEntradaDadosPT2\obj\Debug\netcoreapp2.1\ExercEntradaDadosPT2.AssemblyInfoInputs.cache
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\ExercEntradaDadosPT2\obj\Debug\netcoreapp2.1\ExercEntradaDadosPT2.AssemblyInfo.cs
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\ExercEntradaDadosPT2\obj\Debug\netcoreapp2.1\ExercEntradaDadosPT2.dll
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\ExercEntradaDadosPT2\obj\Debug\netcoreapp2.1\ExercEntradaDadosPT2.pdb

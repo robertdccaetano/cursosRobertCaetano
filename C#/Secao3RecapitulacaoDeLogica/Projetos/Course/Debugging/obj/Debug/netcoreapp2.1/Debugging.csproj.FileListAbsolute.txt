@@ -1,0 +1,11 @@
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\Debugging\bin\Debug\netcoreapp2.1\Debugging.deps.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\Debugging\bin\Debug\netcoreapp2.1\Debugging.runtimeconfig.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\Debugging\bin\Debug\netcoreapp2.1\Debugging.runtimeconfig.dev.json
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\Debugging\bin\Debug\netcoreapp2.1\Debugging.dll
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\Debugging\bin\Debug\netcoreapp2.1\Debugging.pdb
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\Debugging\obj\Debug\netcoreapp2.1\Debugging.csprojAssemblyReference.cache
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\Debugging\obj\Debug\netcoreapp2.1\Debugging.csproj.CoreCompileInputs.cache
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\Debugging\obj\Debug\netcoreapp2.1\Debugging.AssemblyInfoInputs.cache
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\Debugging\obj\Debug\netcoreapp2.1\Debugging.AssemblyInfo.cs
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\Debugging\obj\Debug\netcoreapp2.1\Debugging.dll
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\Debugging\obj\Debug\netcoreapp2.1\Debugging.pdb

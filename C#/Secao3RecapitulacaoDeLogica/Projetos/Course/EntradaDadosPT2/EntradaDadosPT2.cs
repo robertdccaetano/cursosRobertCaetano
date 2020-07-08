@@ -3,7 +3,7 @@ using System.Globalization;
 
 namespace EntradaDadosPT2
 {
-    class Program
+    class EntradaDadosPT2
     {
         static void Main(string[] args)
         {
@@ -21,7 +21,7 @@ namespace EntradaDadosPT2
             Console.WriteLine(nome);
             Console.WriteLine(sexo);
             Console.WriteLine(idade);
-            Console.WriteLine(altura.ToString("", CultureInfo.InvariantCulture));
+            Console.WriteLine(altura.ToString("F2", CultureInfo.InvariantCulture));
 
             //Console.WriteLine("Você digitou: ");
             //Console.WriteLine(n1);
