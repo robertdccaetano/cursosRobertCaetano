@@ -8,3 +8,4 @@ C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EstruturaRep
 C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EstruturaRepeticaoFor\obj\Debug\netcoreapp2.1\EstruturaRepeticaoFor.AssemblyInfo.cs
 C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EstruturaRepeticaoFor\obj\Debug\netcoreapp2.1\EstruturaRepeticaoFor.dll
 C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EstruturaRepeticaoFor\obj\Debug\netcoreapp2.1\EstruturaRepeticaoFor.pdb
+C:\Documentos\Robert\C#\Secao3RecapitulacaoDeLogica\Projetos\Course\EstruturaRepeticaoFor\obj\Debug\netcoreapp2.1\EstruturaRepeticaoFor.csprojAssemblyReference.cache
