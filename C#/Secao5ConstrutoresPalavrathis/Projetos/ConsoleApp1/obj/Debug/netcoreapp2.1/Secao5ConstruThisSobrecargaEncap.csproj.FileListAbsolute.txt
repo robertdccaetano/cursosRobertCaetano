@@ -1,0 +1,11 @@
+C:\Documentos\Robert\C#\Secao5ConstrutoresPalavrathis\Projetos\ConsoleApp1\obj\Debug\netcoreapp2.1\Secao5ConstruThisSobrecargaEncap.csprojAssemblyReference.cache
+C:\Documentos\Robert\C#\Secao5ConstrutoresPalavrathis\Projetos\ConsoleApp1\obj\Debug\netcoreapp2.1\Secao5ConstruThisSobrecargaEncap.csproj.CoreCompileInputs.cache
+C:\Documentos\Robert\C#\Secao5ConstrutoresPalavrathis\Projetos\ConsoleApp1\obj\Debug\netcoreapp2.1\Secao5ConstruThisSobrecargaEncap.AssemblyInfoInputs.cache
+C:\Documentos\Robert\C#\Secao5ConstrutoresPalavrathis\Projetos\ConsoleApp1\obj\Debug\netcoreapp2.1\Secao5ConstruThisSobrecargaEncap.AssemblyInfo.cs
+C:\Documentos\Robert\C#\Secao5ConstrutoresPalavrathis\Projetos\ConsoleApp1\bin\Debug\netcoreapp2.1\Secao5ConstruThisSobrecargaEncap.deps.json
+C:\Documentos\Robert\C#\Secao5ConstrutoresPalavrathis\Projetos\ConsoleApp1\bin\Debug\netcoreapp2.1\Secao5ConstruThisSobrecargaEncap.runtimeconfig.json
+C:\Documentos\Robert\C#\Secao5ConstrutoresPalavrathis\Projetos\ConsoleApp1\bin\Debug\netcoreapp2.1\Secao5ConstruThisSobrecargaEncap.runtimeconfig.dev.json
+C:\Documentos\Robert\C#\Secao5ConstrutoresPalavrathis\Projetos\ConsoleApp1\bin\Debug\netcoreapp2.1\Secao5ConstruThisSobrecargaEncap.dll
+C:\Documentos\Robert\C#\Secao5ConstrutoresPalavrathis\Projetos\ConsoleApp1\bin\Debug\netcoreapp2.1\Secao5ConstruThisSobrecargaEncap.pdb
+C:\Documentos\Robert\C#\Secao5ConstrutoresPalavrathis\Projetos\ConsoleApp1\obj\Debug\netcoreapp2.1\Secao5ConstruThisSobrecargaEncap.dll
+C:\Documentos\Robert\C#\Secao5ConstrutoresPalavrathis\Projetos\ConsoleApp1\obj\Debug\netcoreapp2.1\Secao5ConstruThisSobrecargaEncap.pdb

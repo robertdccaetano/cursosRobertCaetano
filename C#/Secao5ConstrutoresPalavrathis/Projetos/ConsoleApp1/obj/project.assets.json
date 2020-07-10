@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Documentos\\Robert\\C#\\Secao5ConstrutoresPalavrathis\\Projetos\\ConsoleApp1\\Construtores.csproj",
-      "projectName": "Construtores",
-      "projectPath": "C:\\Documentos\\Robert\\C#\\Secao5ConstrutoresPalavrathis\\Projetos\\ConsoleApp1\\Construtores.csproj",
+      "projectUniqueName": "C:\\Documentos\\Robert\\C#\\Secao5ConstrutoresPalavrathis\\Projetos\\ConsoleApp1\\Secao5ConstruThisSobrecargaEncap.csproj",
+      "projectName": "Secao5ConstruThisSobrecargaEncap",
+      "projectPath": "C:\\Documentos\\Robert\\C#\\Secao5ConstrutoresPalavrathis\\Projetos\\ConsoleApp1\\Secao5ConstruThisSobrecargaEncap.csproj",
       "packagesPath": "C:\\Users\\metalsystem\\.nuget\\packages\\",
       "outputPath": "C:\\Documentos\\Robert\\C#\\Secao5ConstrutoresPalavrathis\\Projetos\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
