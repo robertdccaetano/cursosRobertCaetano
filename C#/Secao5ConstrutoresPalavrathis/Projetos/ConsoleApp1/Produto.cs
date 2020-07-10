@@ -3,19 +3,24 @@ namespace Course
 {
     class Produto
     {
+        //Nome não pode fazer autopropertie, pois ele possui uma lógica particular em seu SET
         private string _nome;
-        private double _preco;
-        private int _quantidade;
+        //Auto propertie onde o Set do preço não pode ser alterado por outras classes/arquivos
+        //dispensando também o uso dos métodos Getters/Setters
+        public double Preco { get; private set; }
+        public int Quantidade { get; private set; }
+        //Snippet "prop" + tab + tab Monta estrutura da propertie
+
 
         public Produto()
         {
-            _quantidade = 10;
+            Quantidade = 10;
         }
 
         public Produto(string nome, double preco) : this()
         {
             _nome = nome;
-            _preco = preco;
+            Preco = preco;
         }
 
         //public Produto(string nome, double preco, int quantidade) : this(nome, preco) 
@@ -26,8 +31,8 @@ namespace Course
         public Produto(string nome, double preco, int quantidade)
         {
             _nome = nome;
-            _preco = preco;
-            _quantidade = quantidade;
+            Preco = preco;
+            Quantidade = quantidade;
         }
 
         //Definição de uma propertie chamada Nome
@@ -46,45 +51,40 @@ namespace Course
         }
 
         //Definição de uma propertie chamada Preco
-        public double Preco
-        {
-            get { return _preco; }
+        //public double Preco
+        //{
+        //    get { return _preco; }
             
-        }
+        //}
 
         //Definição de uma propertie chamada Quantidade
-        public int Quantidade
-        {
-            get { return _quantidade; }
-        }
-
-        public int GetQuantidade()
-        {
-            return _quantidade;
-        }
+        //public int Quantidade
+        //{
+        //    get { return _quantidade; }
+        //}
 
         public double ValorTotalEmEstoque()
         {
-            return _preco * _quantidade;
+            return Preco * Quantidade;
         }
 
         public void AdicionarProdutos(int quantidade)
         {
-            _quantidade += quantidade;
+            Quantidade += quantidade;
         }
 
         public void RemoverProdutos(int quantidade)
         {
-            _quantidade -= quantidade;
+            Quantidade -= quantidade;
         }
 
         public override string ToString()
         {
             return _nome
             + ", $ "
-            + _preco.ToString("F2", CultureInfo.InvariantCulture)
+            + Preco.ToString("F2", CultureInfo.InvariantCulture)
             + ", "
-            + _quantidade
+            + Quantidade
             + " unidades, Total: $ "
             + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }
