@@ -1,0 +1,11 @@
+C:\Users\Robert Caetano\source\repos\Secao7TopicosEspeciaisEmCParte1\Secao7TopicosEspeciaisEmCParte1\bin\Debug\netcoreapp2.1\Secao7TopicosEspeciaisEmCParte1.deps.json
+C:\Users\Robert Caetano\source\repos\Secao7TopicosEspeciaisEmCParte1\Secao7TopicosEspeciaisEmCParte1\bin\Debug\netcoreapp2.1\Secao7TopicosEspeciaisEmCParte1.runtimeconfig.json
+C:\Users\Robert Caetano\source\repos\Secao7TopicosEspeciaisEmCParte1\Secao7TopicosEspeciaisEmCParte1\bin\Debug\netcoreapp2.1\Secao7TopicosEspeciaisEmCParte1.runtimeconfig.dev.json
+C:\Users\Robert Caetano\source\repos\Secao7TopicosEspeciaisEmCParte1\Secao7TopicosEspeciaisEmCParte1\bin\Debug\netcoreapp2.1\Secao7TopicosEspeciaisEmCParte1.dll
+C:\Users\Robert Caetano\source\repos\Secao7TopicosEspeciaisEmCParte1\Secao7TopicosEspeciaisEmCParte1\bin\Debug\netcoreapp2.1\Secao7TopicosEspeciaisEmCParte1.pdb
+C:\Users\Robert Caetano\source\repos\Secao7TopicosEspeciaisEmCParte1\Secao7TopicosEspeciaisEmCParte1\obj\Debug\netcoreapp2.1\Secao7TopicosEspeciaisEmCParte1.csprojAssemblyReference.cache
+C:\Users\Robert Caetano\source\repos\Secao7TopicosEspeciaisEmCParte1\Secao7TopicosEspeciaisEmCParte1\obj\Debug\netcoreapp2.1\Secao7TopicosEspeciaisEmCParte1.csproj.CoreCompileInputs.cache
+C:\Users\Robert Caetano\source\repos\Secao7TopicosEspeciaisEmCParte1\Secao7TopicosEspeciaisEmCParte1\obj\Debug\netcoreapp2.1\Secao7TopicosEspeciaisEmCParte1.AssemblyInfoInputs.cache
+C:\Users\Robert Caetano\source\repos\Secao7TopicosEspeciaisEmCParte1\Secao7TopicosEspeciaisEmCParte1\obj\Debug\netcoreapp2.1\Secao7TopicosEspeciaisEmCParte1.AssemblyInfo.cs
+C:\Users\Robert Caetano\source\repos\Secao7TopicosEspeciaisEmCParte1\Secao7TopicosEspeciaisEmCParte1\obj\Debug\netcoreapp2.1\Secao7TopicosEspeciaisEmCParte1.dll
+C:\Users\Robert Caetano\source\repos\Secao7TopicosEspeciaisEmCParte1\Secao7TopicosEspeciaisEmCParte1\obj\Debug\netcoreapp2.1\Secao7TopicosEspeciaisEmCParte1.pdb
