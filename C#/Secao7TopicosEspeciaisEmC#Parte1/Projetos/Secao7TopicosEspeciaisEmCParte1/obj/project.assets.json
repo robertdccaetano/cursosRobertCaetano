@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Robert Caetano\\source\\repos\\Secao7TopicosEspeciaisEmCParte1\\Secao7TopicosEspeciaisEmCParte1\\Secao7TopicosEspeciaisEmCParte1.csproj",
+      "projectUniqueName": "E:\\Disco local Notebook\\Documentos\\Git\\Cursos\\C#\\Secao7TopicosEspeciaisEmC#Parte1\\Projetos\\Secao7TopicosEspeciaisEmCParte1\\Secao7TopicosEspeciaisEmCParte1.csproj",
       "projectName": "Secao7TopicosEspeciaisEmCParte1",
-      "projectPath": "C:\\Users\\Robert Caetano\\source\\repos\\Secao7TopicosEspeciaisEmCParte1\\Secao7TopicosEspeciaisEmCParte1\\Secao7TopicosEspeciaisEmCParte1.csproj",
+      "projectPath": "E:\\Disco local Notebook\\Documentos\\Git\\Cursos\\C#\\Secao7TopicosEspeciaisEmC#Parte1\\Projetos\\Secao7TopicosEspeciaisEmCParte1\\Secao7TopicosEspeciaisEmCParte1.csproj",
       "packagesPath": "C:\\Users\\Robert Caetano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Robert Caetano\\source\\repos\\Secao7TopicosEspeciaisEmCParte1\\Secao7TopicosEspeciaisEmCParte1\\obj\\",
+      "outputPath": "E:\\Disco local Notebook\\Documentos\\Git\\Cursos\\C#\\Secao7TopicosEspeciaisEmC#Parte1\\Projetos\\Secao7TopicosEspeciaisEmCParte1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
