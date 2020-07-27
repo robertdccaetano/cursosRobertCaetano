@@ -1,0 +1,11 @@
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao9EnumeracaoEComposicao\Projetos\Secao9EnumeracaoComposicao\Secao9EnumeracaoComposicao\bin\Debug\netcoreapp2.1\Secao9EnumeracaoComposicao.deps.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao9EnumeracaoEComposicao\Projetos\Secao9EnumeracaoComposicao\Secao9EnumeracaoComposicao\bin\Debug\netcoreapp2.1\Secao9EnumeracaoComposicao.runtimeconfig.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao9EnumeracaoEComposicao\Projetos\Secao9EnumeracaoComposicao\Secao9EnumeracaoComposicao\bin\Debug\netcoreapp2.1\Secao9EnumeracaoComposicao.runtimeconfig.dev.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao9EnumeracaoEComposicao\Projetos\Secao9EnumeracaoComposicao\Secao9EnumeracaoComposicao\bin\Debug\netcoreapp2.1\Secao9EnumeracaoComposicao.dll
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao9EnumeracaoEComposicao\Projetos\Secao9EnumeracaoComposicao\Secao9EnumeracaoComposicao\bin\Debug\netcoreapp2.1\Secao9EnumeracaoComposicao.pdb
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao9EnumeracaoEComposicao\Projetos\Secao9EnumeracaoComposicao\Secao9EnumeracaoComposicao\obj\Debug\netcoreapp2.1\Secao9EnumeracaoComposicao.csprojAssemblyReference.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao9EnumeracaoEComposicao\Projetos\Secao9EnumeracaoComposicao\Secao9EnumeracaoComposicao\obj\Debug\netcoreapp2.1\Secao9EnumeracaoComposicao.csproj.CoreCompileInputs.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao9EnumeracaoEComposicao\Projetos\Secao9EnumeracaoComposicao\Secao9EnumeracaoComposicao\obj\Debug\netcoreapp2.1\Secao9EnumeracaoComposicao.AssemblyInfoInputs.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao9EnumeracaoEComposicao\Projetos\Secao9EnumeracaoComposicao\Secao9EnumeracaoComposicao\obj\Debug\netcoreapp2.1\Secao9EnumeracaoComposicao.AssemblyInfo.cs
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao9EnumeracaoEComposicao\Projetos\Secao9EnumeracaoComposicao\Secao9EnumeracaoComposicao\obj\Debug\netcoreapp2.1\Secao9EnumeracaoComposicao.dll
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao9EnumeracaoEComposicao\Projetos\Secao9EnumeracaoComposicao\Secao9EnumeracaoComposicao\obj\Debug\netcoreapp2.1\Secao9EnumeracaoComposicao.pdb
