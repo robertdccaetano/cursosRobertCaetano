@@ -1,0 +1,11 @@
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao10HerancaPolimorfismo\Projetos\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\bin\Debug\netcoreapp2.1\Secao10HerancaPolimorfismo.deps.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao10HerancaPolimorfismo\Projetos\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\bin\Debug\netcoreapp2.1\Secao10HerancaPolimorfismo.runtimeconfig.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao10HerancaPolimorfismo\Projetos\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\bin\Debug\netcoreapp2.1\Secao10HerancaPolimorfismo.runtimeconfig.dev.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao10HerancaPolimorfismo\Projetos\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\bin\Debug\netcoreapp2.1\Secao10HerancaPolimorfismo.dll
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao10HerancaPolimorfismo\Projetos\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\bin\Debug\netcoreapp2.1\Secao10HerancaPolimorfismo.pdb
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao10HerancaPolimorfismo\Projetos\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\obj\Debug\netcoreapp2.1\Secao10HerancaPolimorfismo.csprojAssemblyReference.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao10HerancaPolimorfismo\Projetos\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\obj\Debug\netcoreapp2.1\Secao10HerancaPolimorfismo.csproj.CoreCompileInputs.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao10HerancaPolimorfismo\Projetos\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\obj\Debug\netcoreapp2.1\Secao10HerancaPolimorfismo.AssemblyInfoInputs.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao10HerancaPolimorfismo\Projetos\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\obj\Debug\netcoreapp2.1\Secao10HerancaPolimorfismo.AssemblyInfo.cs
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao10HerancaPolimorfismo\Projetos\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\obj\Debug\netcoreapp2.1\Secao10HerancaPolimorfismo.dll
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao10HerancaPolimorfismo\Projetos\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\obj\Debug\netcoreapp2.1\Secao10HerancaPolimorfismo.pdb

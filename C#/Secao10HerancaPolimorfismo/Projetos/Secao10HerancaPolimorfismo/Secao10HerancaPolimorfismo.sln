@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secao10HerancaPolimorfismo", "Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo.csproj", "{15EF30E3-596C-486A-885A-DB6E34458D68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15EF30E3-596C-486A-885A-DB6E34458D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15EF30E3-596C-486A-885A-DB6E34458D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15EF30E3-596C-486A-885A-DB6E34458D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15EF30E3-596C-486A-885A-DB6E34458D68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0C9BE31-B2EE-4B86-98D1-9E36B062A7A3}
+	EndGlobalSection
+EndGlobal
