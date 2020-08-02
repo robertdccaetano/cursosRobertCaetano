@@ -1,0 +1,11 @@
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao11TratamentoExcecoes\Projetos\Secao11TratamentoExcecoes\Secao11TratamentoExcecoes\bin\Debug\netcoreapp2.1\Secao11TratamentoExcecoes.deps.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao11TratamentoExcecoes\Projetos\Secao11TratamentoExcecoes\Secao11TratamentoExcecoes\bin\Debug\netcoreapp2.1\Secao11TratamentoExcecoes.runtimeconfig.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao11TratamentoExcecoes\Projetos\Secao11TratamentoExcecoes\Secao11TratamentoExcecoes\bin\Debug\netcoreapp2.1\Secao11TratamentoExcecoes.runtimeconfig.dev.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao11TratamentoExcecoes\Projetos\Secao11TratamentoExcecoes\Secao11TratamentoExcecoes\bin\Debug\netcoreapp2.1\Secao11TratamentoExcecoes.dll
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao11TratamentoExcecoes\Projetos\Secao11TratamentoExcecoes\Secao11TratamentoExcecoes\bin\Debug\netcoreapp2.1\Secao11TratamentoExcecoes.pdb
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao11TratamentoExcecoes\Projetos\Secao11TratamentoExcecoes\Secao11TratamentoExcecoes\obj\Debug\netcoreapp2.1\Secao11TratamentoExcecoes.csprojAssemblyReference.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao11TratamentoExcecoes\Projetos\Secao11TratamentoExcecoes\Secao11TratamentoExcecoes\obj\Debug\netcoreapp2.1\Secao11TratamentoExcecoes.csproj.CoreCompileInputs.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao11TratamentoExcecoes\Projetos\Secao11TratamentoExcecoes\Secao11TratamentoExcecoes\obj\Debug\netcoreapp2.1\Secao11TratamentoExcecoes.AssemblyInfoInputs.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao11TratamentoExcecoes\Projetos\Secao11TratamentoExcecoes\Secao11TratamentoExcecoes\obj\Debug\netcoreapp2.1\Secao11TratamentoExcecoes.AssemblyInfo.cs
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao11TratamentoExcecoes\Projetos\Secao11TratamentoExcecoes\Secao11TratamentoExcecoes\obj\Debug\netcoreapp2.1\Secao11TratamentoExcecoes.dll
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao11TratamentoExcecoes\Projetos\Secao11TratamentoExcecoes\Secao11TratamentoExcecoes\obj\Debug\netcoreapp2.1\Secao11TratamentoExcecoes.pdb
