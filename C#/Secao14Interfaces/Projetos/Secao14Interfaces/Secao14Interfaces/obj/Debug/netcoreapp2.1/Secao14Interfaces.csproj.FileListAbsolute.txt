@@ -1,0 +1,11 @@
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao14Interfaces\Projetos\Secao14Interfaces\Secao14Interfaces\bin\Debug\netcoreapp2.1\Secao14Interfaces.deps.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao14Interfaces\Projetos\Secao14Interfaces\Secao14Interfaces\bin\Debug\netcoreapp2.1\Secao14Interfaces.runtimeconfig.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao14Interfaces\Projetos\Secao14Interfaces\Secao14Interfaces\bin\Debug\netcoreapp2.1\Secao14Interfaces.runtimeconfig.dev.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao14Interfaces\Projetos\Secao14Interfaces\Secao14Interfaces\bin\Debug\netcoreapp2.1\Secao14Interfaces.dll
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao14Interfaces\Projetos\Secao14Interfaces\Secao14Interfaces\bin\Debug\netcoreapp2.1\Secao14Interfaces.pdb
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao14Interfaces\Projetos\Secao14Interfaces\Secao14Interfaces\obj\Debug\netcoreapp2.1\Secao14Interfaces.csprojAssemblyReference.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao14Interfaces\Projetos\Secao14Interfaces\Secao14Interfaces\obj\Debug\netcoreapp2.1\Secao14Interfaces.csproj.CoreCompileInputs.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao14Interfaces\Projetos\Secao14Interfaces\Secao14Interfaces\obj\Debug\netcoreapp2.1\Secao14Interfaces.AssemblyInfoInputs.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao14Interfaces\Projetos\Secao14Interfaces\Secao14Interfaces\obj\Debug\netcoreapp2.1\Secao14Interfaces.AssemblyInfo.cs
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao14Interfaces\Projetos\Secao14Interfaces\Secao14Interfaces\obj\Debug\netcoreapp2.1\Secao14Interfaces.dll
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao14Interfaces\Projetos\Secao14Interfaces\Secao14Interfaces\obj\Debug\netcoreapp2.1\Secao14Interfaces.pdb
