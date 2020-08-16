@@ -7,24 +7,24 @@ namespace Secao14Interfaces
 {
     class HerancaMultiplaProblemaDoDiamante
     {
-        public static void Main(string[] args)
-        {
-            Printer p = new Printer() { SerialNumber = 1080 };
-            p.ProcessDoc("My letter");
-            p.Print("My letter");
+        //public static void Main(string[] args)
+        //{
+        //    Printer p = new Printer() { SerialNumber = 1080 };
+        //    p.ProcessDoc("My letter");
+        //    p.Print("My letter");
 
-            Scanner s = new Scanner() { SerialNumber = 2003 };
-            s.ProcessDoc("My e-mail");
-            Console.WriteLine(s.Scan());
+        //    Scanner s = new Scanner() { SerialNumber = 2003 };
+        //    s.ProcessDoc("My e-mail");
+        //    Console.WriteLine(s.Scan());
 
-            ComboDevice c = new ComboDevice() { SerialNumber = 3921 };
+        //    ComboDevice c = new ComboDevice() { SerialNumber = 3921 };
 
-            c.ProcessDoc("My dissertation");
-            c.Print("My dissertation");
-            Console.WriteLine(c.Scan());
+        //    c.ProcessDoc("My dissertation");
+        //    c.Print("My dissertation");
+        //    Console.WriteLine(c.Scan());
 
 
-        }
+        //}
     }
 }
 

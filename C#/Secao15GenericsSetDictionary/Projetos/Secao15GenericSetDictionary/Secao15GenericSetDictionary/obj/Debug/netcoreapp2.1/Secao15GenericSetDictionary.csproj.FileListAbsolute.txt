@@ -1,0 +1,11 @@
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao15GenericsSetDictionary\Projetos\Secao15GenericSetDictionary\Secao15GenericSetDictionary\bin\Debug\netcoreapp2.1\Secao15GenericSetDictionary.deps.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao15GenericsSetDictionary\Projetos\Secao15GenericSetDictionary\Secao15GenericSetDictionary\bin\Debug\netcoreapp2.1\Secao15GenericSetDictionary.runtimeconfig.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao15GenericsSetDictionary\Projetos\Secao15GenericSetDictionary\Secao15GenericSetDictionary\bin\Debug\netcoreapp2.1\Secao15GenericSetDictionary.runtimeconfig.dev.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao15GenericsSetDictionary\Projetos\Secao15GenericSetDictionary\Secao15GenericSetDictionary\bin\Debug\netcoreapp2.1\Secao15GenericSetDictionary.dll
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao15GenericsSetDictionary\Projetos\Secao15GenericSetDictionary\Secao15GenericSetDictionary\bin\Debug\netcoreapp2.1\Secao15GenericSetDictionary.pdb
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao15GenericsSetDictionary\Projetos\Secao15GenericSetDictionary\Secao15GenericSetDictionary\obj\Debug\netcoreapp2.1\Secao15GenericSetDictionary.csprojAssemblyReference.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao15GenericsSetDictionary\Projetos\Secao15GenericSetDictionary\Secao15GenericSetDictionary\obj\Debug\netcoreapp2.1\Secao15GenericSetDictionary.csproj.CoreCompileInputs.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao15GenericsSetDictionary\Projetos\Secao15GenericSetDictionary\Secao15GenericSetDictionary\obj\Debug\netcoreapp2.1\Secao15GenericSetDictionary.AssemblyInfoInputs.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao15GenericsSetDictionary\Projetos\Secao15GenericSetDictionary\Secao15GenericSetDictionary\obj\Debug\netcoreapp2.1\Secao15GenericSetDictionary.AssemblyInfo.cs
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao15GenericsSetDictionary\Projetos\Secao15GenericSetDictionary\Secao15GenericSetDictionary\obj\Debug\netcoreapp2.1\Secao15GenericSetDictionary.dll
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao15GenericsSetDictionary\Projetos\Secao15GenericSetDictionary\Secao15GenericSetDictionary\obj\Debug\netcoreapp2.1\Secao15GenericSetDictionary.pdb
