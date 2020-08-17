@@ -1,0 +1,11 @@
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao16TopicosEspeciaisEmC#Parte2\Projetos\Secao16TopicosEspeciaisEmCParte2\bin\Debug\netcoreapp2.1\Secao16TopicosEspeciaisEmCParte2.deps.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao16TopicosEspeciaisEmC#Parte2\Projetos\Secao16TopicosEspeciaisEmCParte2\bin\Debug\netcoreapp2.1\Secao16TopicosEspeciaisEmCParte2.runtimeconfig.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao16TopicosEspeciaisEmC#Parte2\Projetos\Secao16TopicosEspeciaisEmCParte2\bin\Debug\netcoreapp2.1\Secao16TopicosEspeciaisEmCParte2.runtimeconfig.dev.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao16TopicosEspeciaisEmC#Parte2\Projetos\Secao16TopicosEspeciaisEmCParte2\bin\Debug\netcoreapp2.1\Secao16TopicosEspeciaisEmCParte2.dll
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao16TopicosEspeciaisEmC#Parte2\Projetos\Secao16TopicosEspeciaisEmCParte2\bin\Debug\netcoreapp2.1\Secao16TopicosEspeciaisEmCParte2.pdb
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao16TopicosEspeciaisEmC#Parte2\Projetos\Secao16TopicosEspeciaisEmCParte2\obj\Debug\netcoreapp2.1\Secao16TopicosEspeciaisEmCParte2.csprojAssemblyReference.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao16TopicosEspeciaisEmC#Parte2\Projetos\Secao16TopicosEspeciaisEmCParte2\obj\Debug\netcoreapp2.1\Secao16TopicosEspeciaisEmCParte2.csproj.CoreCompileInputs.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao16TopicosEspeciaisEmC#Parte2\Projetos\Secao16TopicosEspeciaisEmCParte2\obj\Debug\netcoreapp2.1\Secao16TopicosEspeciaisEmCParte2.AssemblyInfoInputs.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao16TopicosEspeciaisEmC#Parte2\Projetos\Secao16TopicosEspeciaisEmCParte2\obj\Debug\netcoreapp2.1\Secao16TopicosEspeciaisEmCParte2.AssemblyInfo.cs
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao16TopicosEspeciaisEmC#Parte2\Projetos\Secao16TopicosEspeciaisEmCParte2\obj\Debug\netcoreapp2.1\Secao16TopicosEspeciaisEmCParte2.dll
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Secao16TopicosEspeciaisEmC#Parte2\Projetos\Secao16TopicosEspeciaisEmCParte2\obj\Debug\netcoreapp2.1\Secao16TopicosEspeciaisEmCParte2.pdb

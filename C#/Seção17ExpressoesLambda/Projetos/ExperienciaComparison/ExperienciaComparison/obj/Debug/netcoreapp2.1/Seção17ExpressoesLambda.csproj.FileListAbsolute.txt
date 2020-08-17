@@ -1,0 +1,11 @@
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Seção17ExpressoesLambda\Projetos\ExperienciaComparison\ExperienciaComparison\bin\Debug\netcoreapp2.1\Seção17ExpressoesLambda.deps.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Seção17ExpressoesLambda\Projetos\ExperienciaComparison\ExperienciaComparison\bin\Debug\netcoreapp2.1\Seção17ExpressoesLambda.runtimeconfig.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Seção17ExpressoesLambda\Projetos\ExperienciaComparison\ExperienciaComparison\bin\Debug\netcoreapp2.1\Seção17ExpressoesLambda.runtimeconfig.dev.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Seção17ExpressoesLambda\Projetos\ExperienciaComparison\ExperienciaComparison\bin\Debug\netcoreapp2.1\Seção17ExpressoesLambda.dll
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Seção17ExpressoesLambda\Projetos\ExperienciaComparison\ExperienciaComparison\bin\Debug\netcoreapp2.1\Seção17ExpressoesLambda.pdb
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Seção17ExpressoesLambda\Projetos\ExperienciaComparison\ExperienciaComparison\obj\Debug\netcoreapp2.1\Seção17ExpressoesLambda.csprojAssemblyReference.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Seção17ExpressoesLambda\Projetos\ExperienciaComparison\ExperienciaComparison\obj\Debug\netcoreapp2.1\Seção17ExpressoesLambda.csproj.CoreCompileInputs.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Seção17ExpressoesLambda\Projetos\ExperienciaComparison\ExperienciaComparison\obj\Debug\netcoreapp2.1\Seção17ExpressoesLambda.AssemblyInfoInputs.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Seção17ExpressoesLambda\Projetos\ExperienciaComparison\ExperienciaComparison\obj\Debug\netcoreapp2.1\Seção17ExpressoesLambda.AssemblyInfo.cs
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Seção17ExpressoesLambda\Projetos\ExperienciaComparison\ExperienciaComparison\obj\Debug\netcoreapp2.1\Seção17ExpressoesLambda.dll
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\Seção17ExpressoesLambda\Projetos\ExperienciaComparison\ExperienciaComparison\obj\Debug\netcoreapp2.1\Seção17ExpressoesLambda.pdb
