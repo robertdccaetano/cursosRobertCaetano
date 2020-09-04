@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Disco local Notebook\\Documentos\\Git\\Cursos\\C#\\ExerciciosFinaisCursoCSHARPCompleto\\ExerciciosFinaisCursoCSHARPCompleto\\ExerciciosFinaisCursoCSHARPCompleto.csproj",
-      "projectName": "ExerciciosFinaisCursoCSHARPCompleto",
-      "projectPath": "F:\\Disco local Notebook\\Documentos\\Git\\Cursos\\C#\\ExerciciosFinaisCursoCSHARPCompleto\\ExerciciosFinaisCursoCSHARPCompleto\\ExerciciosFinaisCursoCSHARPCompleto.csproj",
+      "projectUniqueName": "F:\\Disco local Notebook\\Documentos\\Git\\Cursos\\C#\\ExerciciosFinaisCursoCSHARPCompleto\\ExerciciosFinaisCursoCSHARPCompleto\\secao03Ex01.csproj",
+      "projectName": "secao03Ex01",
+      "projectPath": "F:\\Disco local Notebook\\Documentos\\Git\\Cursos\\C#\\ExerciciosFinaisCursoCSHARPCompleto\\ExerciciosFinaisCursoCSHARPCompleto\\secao03Ex01.csproj",
       "packagesPath": "C:\\Users\\Robert Caetano\\.nuget\\packages\\",
       "outputPath": "F:\\Disco local Notebook\\Documentos\\Git\\Cursos\\C#\\ExerciciosFinaisCursoCSHARPCompleto\\ExerciciosFinaisCursoCSHARPCompleto\\obj\\",
       "projectStyle": "PackageReference",
