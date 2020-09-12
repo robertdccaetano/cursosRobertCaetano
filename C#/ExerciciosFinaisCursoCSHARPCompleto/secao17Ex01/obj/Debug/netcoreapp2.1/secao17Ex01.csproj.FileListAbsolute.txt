@@ -1,0 +1,11 @@
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\ExerciciosFinaisCursoCSHARPCompleto\secao17Ex01\bin\Debug\netcoreapp2.1\secao17Ex01.deps.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\ExerciciosFinaisCursoCSHARPCompleto\secao17Ex01\bin\Debug\netcoreapp2.1\secao17Ex01.runtimeconfig.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\ExerciciosFinaisCursoCSHARPCompleto\secao17Ex01\bin\Debug\netcoreapp2.1\secao17Ex01.runtimeconfig.dev.json
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\ExerciciosFinaisCursoCSHARPCompleto\secao17Ex01\bin\Debug\netcoreapp2.1\secao17Ex01.dll
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\ExerciciosFinaisCursoCSHARPCompleto\secao17Ex01\bin\Debug\netcoreapp2.1\secao17Ex01.pdb
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\ExerciciosFinaisCursoCSHARPCompleto\secao17Ex01\obj\Debug\netcoreapp2.1\secao17Ex01.csprojAssemblyReference.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\ExerciciosFinaisCursoCSHARPCompleto\secao17Ex01\obj\Debug\netcoreapp2.1\secao17Ex01.csproj.CoreCompileInputs.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\ExerciciosFinaisCursoCSHARPCompleto\secao17Ex01\obj\Debug\netcoreapp2.1\secao17Ex01.AssemblyInfoInputs.cache
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\ExerciciosFinaisCursoCSHARPCompleto\secao17Ex01\obj\Debug\netcoreapp2.1\secao17Ex01.AssemblyInfo.cs
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\ExerciciosFinaisCursoCSHARPCompleto\secao17Ex01\obj\Debug\netcoreapp2.1\secao17Ex01.dll
+F:\Disco local Notebook\Documentos\Git\Cursos\C#\ExerciciosFinaisCursoCSHARPCompleto\secao17Ex01\obj\Debug\netcoreapp2.1\secao17Ex01.pdb
